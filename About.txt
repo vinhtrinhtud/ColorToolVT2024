@@ -1,0 +1,9 @@
+This program is to calculate, determine and optimize the color quality.
+
+Many operation modes are programmed in this program.
+
+For comments and improvements, we are glad to listen to.
+
+Contact: Dr. - Ing. Vinh Trinh, Zeiss GmbH, Germany.
+
+Many Thanks!
