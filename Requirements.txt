@@ -1,4 +1,5 @@
 ColorToolALSVV Executable
+It is a private programme of Dr. Vinh Trinh, does not correlate his current position of his company or the old companies. The copyright belongs to him privately.
 
 1. Prerequisites for Deployment 
 
