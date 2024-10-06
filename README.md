@@ -1,5 +1,4 @@
-It is a private programme of Dr. Vinh Trinh, does not correlate his current position of his company or the old companies.
-The copyright belongs to him privately.
+It is a private program of Dr. Vinh Trinh, does not correlate his current position of his company or the old companies. The copyright belongs to him privately. It is to calculate/optimize all colour spectra and others like LED and conventional light sources. The professional calculates are absolutely different from the current actions and career.
 There are 11 items in the structure of this software including: 
 	1-File 			            	2-Setting			    	3-Corner Color TCSs
 	4-Correlations 		      		5-Generate 			6-Corner ISD
