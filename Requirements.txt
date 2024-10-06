@@ -1,4 +1,4 @@
-ColorToolALSVV Executable
+ColorToolVinhTrinh2024 Executable
 It is a private program of Dr. Vinh Trinh, does not correlate his current position of his company or the old companies. The copyright belongs to him privately. 
 It is to calculate/optimize all colour spectra and others like LED and conventional light sources. 
 The professional calculates are absolutely different from the current actions and career.
@@ -27,7 +27,7 @@ in the MathWorks Documentation Center.
 
 Files to Package for Standalone 
 ================================
--ColorToolALSVV.exe
+-ColorToolVinhTrinh2024.exe
 -MCRInstaller.exe 
     Note: if end users are unable to download the MATLAB Runtime using the
     instructions in the previous section, include it when building your 

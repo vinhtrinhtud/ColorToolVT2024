@@ -3,10 +3,10 @@ It is to calculate/optimize all colour spectra and others like LED and conventio
 The professional calculates are absolutely different from the current actions and career.
 
 There are 11 items in the structure of this software including: 
-	1-File 			            	2-Setting			3-Corner Color TCSs
+	1-File 			            	2-Setting				3-Corner Color TCSs
 	4-Correlations 		      		5-Generate 			6-Corner ISD
-	7-Tools extra	 	        	8-Color Sensor			9-Corner CS2000
-	10-Corner Rp,TUD 2018	  		11-Corner HCL			12- About 		
+	7-Tools extra	 	        		8-Color Sensor			9-Corner CS2000
+	10-Corner Rp,TUD 2018	  			11-Corner HCL			12- About 		
 	13-Stop urgently (ST).
 
 A) Simple modes: "About" and "Format 4 input Data" are simple items so that users can understand information about this software, vesion, author and the format of input data 
@@ -35,7 +35,7 @@ It will be developed further for more tools such as the addition, substration, d
 
 F) "Stop urgently" with the red text "ST" is to stop timer in the case of long term measurements and others.
 
-Vinh will write this continuously.
+Dr. Trinh will write & update this continuously.
 
 To understand total concepts, please aks Dr. Ing. Vinh Trinh, vinhtrinh.tud@gmai.com.
 Password: VinhTrinh204

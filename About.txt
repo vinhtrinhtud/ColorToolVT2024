@@ -1,4 +1,5 @@
-It is a private program of Dr. Vinh Trinh, does not correlate his current position of his company or the old companies. The copyright belongs to him privately. It is to calculate/optimize all colour spectra and others like LED and conventional light sources.
+It is a private program of Dr. Vinh Trinh, does not correlate his current position of his company or the old companies. 
+The copyright belongs to him privately. It is to calculate/optimize all colour spectra and others like LED and conventional light sources.
 The professional calculates are absolutely different from the current actions and career.
 
 Many operation modes are programmed in this program.
