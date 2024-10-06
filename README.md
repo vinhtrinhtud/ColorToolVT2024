@@ -2,7 +2,7 @@ It is a private program of Dr. Vinh Trinh, does not correlate his current positi
 It is to calculate/optimize all colour spectra and others like LED and conventional light sources. 
 The professional calculates are absolutely different from the current actions and career.
 
-It is Version 1.0 - 2024 created after Dr. Trinh have left ALSVV - TU Darmstadt and operates it in the private role in this direction.
+It is Version 1.0 - 2024 created after Dr. Trinh have left ALSVV - TU Darmstadt and he operates it in the private role in this direction.
 
 There are 11 items in the structure of this software including: 
 	1-File 			            	2-Setting				3-Corner Color TCSs
