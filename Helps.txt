@@ -1,3 +1,4 @@
+It is a private programme of Dr. Vinh Trinh, does not correlate his current position of his company or the old companies. The copyright belongs to him privately.
 There are 11 items in the structure of this software including: 
 	1-File 			2-Setting			3-Corner Color TCSs
 	4-Correlations 		5-Generate 			6-Corner ISD
