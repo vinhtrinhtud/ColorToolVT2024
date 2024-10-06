@@ -1,11 +1,10 @@
 # ColorToolVT2024
 It is to calculate/analysis/optimize all of color quality, light quality and relevant things of light sources, images, cameras and color sensors.
-Is is a private program of Dr. Vinh Trinh, does not correlate his current position of his company or the old companies. 
-Copyright belongs to him privately.
+It is a private programme of Dr. Vinh Trinh, does not correlate his current position of his company or the old companies. The copyright belongs to him privately.
 
 There are 11 items in the structure of this software including: 
-	1-File 			      	2-Setting			      3-Corner Color TCSs
-	4-Correlations 			5-Generate 			    6-Corner ISD
+	1-File 			      	2-Setting			3-Corner Color TCSs
+	4-Correlations 			5-Generate 			6-Corner ISD
 	7-Tools extra	 	  	8-Color Sensor			9-Corner CS2000
 	10-Corner Rp,TUD 2018		11-Corner HCL			12- About 		
 	13-Stop urgently (ST).
