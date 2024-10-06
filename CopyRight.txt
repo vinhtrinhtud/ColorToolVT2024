@@ -2,7 +2,7 @@ It is a private program of Dr. Vinh Trinh, does not correlate his current positi
 It is to calculate/optimize all colour spectra and others like LED and conventional light sources. 
 The professional calculates are absolutely different from the current actions and career.
 
-It is Version 1.0 - 2024 created after Dr. Trinh have leaf ALSVV - TU Darmstadt and operates it in the a private role in this direction.
+It is Version 1.0 - 2024 created after Dr. Trinh have left ALSVV - TU Darmstadt and operates it in the private role in this direction.
 
 The copyright is protected according the law of Germany and EU. 
 When you install and use this program, you have alread accepted 
