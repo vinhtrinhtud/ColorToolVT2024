@@ -34,5 +34,5 @@ F) "Stop urgently" with the red text "ST" is to stop timer in the case of long t
 
 Vinh will write this continuously.
 
-To understand total concepts, please aks Vinh, vinh@lichttechnik.tu-darmstadt.de, or vinhtrinh.tud@gmail.com privately.
+To understand total concepts, please aks Vinh, vinhtrinh.tud@gmail.com privately.
 Password: VinhTrinh2024
